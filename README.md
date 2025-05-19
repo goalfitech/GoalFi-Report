@@ -1,7 +1,7 @@
 ﻿
 # 📈 Stock Report Generation
 
-This project is a **Flutter-based stock report generator** that allows users to generate comprehensive reports for any stock. The application includes features for fetching data, processing insights, and exporting reports.
+This project is a **Python-based stock report generator** that allows users to generate comprehensive reports for any stock. The application includes features for fetching data, processing insights, and exporting reports.
 
 ---
 
@@ -9,16 +9,15 @@ This project is a **Flutter-based stock report generator** that allows users to 
 
 - Generate detailed reports for any stock symbol
 - Export reports with charts and data visualizations
-- Flutter-based cross-platform UI
+- Using Python Library to design the Report
 - Easy customization for different stock APIs or formats
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Flutter** for the frontend
-- **Dart** as the programming language
-- Optional backend/API integrations depending on your setup
+- **Streamlit** for the frontend
+- **Python** as the programming language
 
 ---
 
