@@ -1,0 +1,14 @@
+streamlit
+pdfplumber
+tiktoken
+openai
+requests
+pandas
+reportlab
+python-dateutil
+plotly
+PyPDF2
+python-dotenv
+pyotp==2.9.0
+py5paisa
+pymongo
