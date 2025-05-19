@@ -3,4 +3,4 @@ balance
 downloads
 *.log
 .pandoc_bin
-.pandoc_bin/pandoc
+.pandoc_bin/pandoc.pandoc_bin/
